@@ -28,6 +28,16 @@
     );
   }
 
+  &__username {
+    font-weight: bold;
+    font-style: initial;
+  }
+
+  &__commentsCall {
+    font-size: 1rem;
+    font-weight: bold;
+  }
+
   &__remove-button {
     min-width: 20px;
     color: inherit;
